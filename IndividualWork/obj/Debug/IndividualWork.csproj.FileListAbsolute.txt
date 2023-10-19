@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\IndividualWork\IndividualWork\bin\Debug\IndividualWork.exe.config
+C:\Users\user\Desktop\IndividualWork\IndividualWork\bin\Debug\IndividualWork.exe
+C:\Users\user\Desktop\IndividualWork\IndividualWork\bin\Debug\IndividualWork.pdb
+C:\Users\user\Desktop\IndividualWork\IndividualWork\obj\Debug\IndividualWork.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\IndividualWork\IndividualWork\obj\Debug\IndividualWork.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IndividualWork\IndividualWork\obj\Debug\IndividualWork.exe
+C:\Users\user\Desktop\IndividualWork\IndividualWork\obj\Debug\IndividualWork.pdb
