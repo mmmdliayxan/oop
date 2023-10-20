@@ -1,4 +1,6 @@
-﻿using IndividualWork.OOP.Inheritance;
+﻿using IndividualWork.OOP.Abstraction;
+using IndividualWork.OOP.Encapsulation;
+using IndividualWork.OOP.Inheritance;
 using IndividualWork.OOP.Polymorphism;
 using System;
 using System.Collections.Generic;
@@ -43,8 +45,28 @@ namespace IndividualWork
             {
                 animal.Move(); 
             }
-            
 
+            Console.WriteLine("-----------------------------------------------------------------");
+            /*Encapsulation*/
+
+            BankAccount bank = new BankAccount(2000);
+            bank.Name = "Ayxan";
+            bank.SetDeposit(500);
+            bank.Payment(1200);
+            Console.WriteLine(bank.GetBalance());
+
+            Console.WriteLine("-----------------------------------------------------------------");
+            /*Abstraction*/
+
+            Rectangle rectangle = new Rectangle(12, 3);
+            Console.WriteLine(rectangle.GetArea());
+            Console.WriteLine(rectangle.Color("blue"));
+            Console.WriteLine(rectangle.Name);
+
+            Cone cone = new Cone(12, 2);
+            Console.WriteLine(cone.GetArea());
+            Console.WriteLine(cone.Color("red"));
+            Console.WriteLine(cone.Name);
         }
     }
 }

@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="OOP\Abstraction\Cone.cs" />
+    <Compile Include="OOP\Abstraction\Interface1.cs" />
+    <Compile Include="OOP\Abstraction\Rectangle.cs" />
+    <Compile Include="OOP\Abstraction\Shape.cs" />
+    <Compile Include="OOP\Encapsulation\BankAccount.cs" />
     <Compile Include="OOP\Inheritance\EquilateralTriangle.cs" />
     <Compile Include="OOP\Inheritance\RegularPolygon.cs" />
     <Compile Include="OOP\Inheritance\Square.cs" />
